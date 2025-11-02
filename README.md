@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Banner (put banner.png inside ./assets/) -->
+<img src="./assets/banner.png" alt="banner" width="100%"/>
 
-<!--
-**ronnycoulson1/ronnycoulson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Ronny 👋  
 
-Here are some ideas to get you started:
+**Computer Science & Math Student • Developer • Aspiring Quant**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects in web dev, C++, trading algorithms, and data science.  
+💼 Founder @ **Coulsource** — building software for small businesses.  
+📫 Reach me: **ronnycoulson@hotmail.com**
+
+---
+
+### 🔭 Current Work  
+- Chronic Diseases analysis and stock-lab analytics.  
+- Working on CS projects: Database systems and front-end flight booking app.  
+
+---
+
+### 👨‍💻 Skills  
+`C++` `Python` `JavaScript` `Next.js` `SQL` `Pandas` `NumPy`
+
+---
+
+### 🔧 Tools & Technologies  
+- Data analysis, machine learning basics, and modern web backends.
+
+---
+
+### 📂 Featured Projects  
+
+- **FullStack** — Full-stack web development projects.  
+  ⤴️ [View Repo](https://github.com/ronnycoulson1/fullStack)
+
+- **Quant-Dev** — Basic stock analysis, from data cleaning to insights.  
+  ⤴️ [View Repo](https://github.com/ronnycoulson1/quant-dev)
+
+- **Data-Science** — Data analysis projects in different fields (e.g., health).  
+  ⤴️ [View Repo](https://github.com/ronnycoulson1/data-science)
+
+---
+
+### 📊 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=ronnycoulson1&show_icons=true&theme=dark" alt="GitHub stats"/>
+
+---
+
+### 🌐 Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ronnycoulson)  
+[![Portfolio](https://img.shields.io/badge/Website-Coulsource.dev-orange?logo=firefox)](https://coulsource.dev)
+
+---
+
+*Thanks for visiting — feel free to reach out or check out my projects!* 👋
+
+
