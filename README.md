@@ -2,8 +2,7 @@
 
 **Computer Science & Math-Finance Student**  
 
-🚀 Building projects in web dev, C++, trading algorithms, and data science.  
-💼 Founder @ **Coulsource** — building software for small businesses.  
+🚀 Building projects in web dev, C++, trading anlysis, and data science.  
 📫 Reach me: **ronnycoulson@hotmail.com**
 
 ---
