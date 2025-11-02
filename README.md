@@ -1,5 +1,5 @@
 <!-- Banner (put banner.png inside ./assets/) -->
-<img src="./assets/banner.png" alt="banner" width="100%"/>
+<img src="./assets/bannerimg.png" alt="banner" width="100%"/>
 
 ## Hi there, I'm Ronny 👋  
 
