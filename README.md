@@ -1,9 +1,6 @@
-<!-- Banner (put banner.png inside ./assets/) -->
-<img src="./assets/971.jpg" alt="banner" width="100%"/>
-
 ## Hi there, I'm Ronny 👋  
 
-**Computer Science & Math Student • Developer • Aspiring Quant**  
+**Computer Science & Math-Finance Student**  
 
 🚀 Building projects in web dev, C++, trading algorithms, and data science.  
 💼 Founder @ **Coulsource** — building software for small businesses.  
