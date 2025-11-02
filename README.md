@@ -40,10 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ronnycoulson1&show_icons=true&theme=dark" alt="GitHub stats"/>
 
----
 
 ### 🌐 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ronnycoulson)  
