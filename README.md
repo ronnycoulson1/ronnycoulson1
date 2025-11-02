@@ -44,7 +44,7 @@
 
 ### 🌐 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ronnycoulson)  
-[![Portfolio](https://img.shields.io/badge/Website-Coulsource.dev-orange?logo=firefox)](https://coulsource.dev)
+
 
 ---
 
