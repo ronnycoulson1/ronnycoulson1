@@ -3,7 +3,7 @@
 **Computer Science & Math-Finance Student**  
 
 🚀 Building projects in web dev, C++, trading anlysis, and data science.  
-📫 Reach me: **ronnycoulson@hotmail.com**
+📫 Reach me: **rcoulson@kent.edu**
 
 ---
 
