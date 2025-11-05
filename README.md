@@ -9,7 +9,7 @@
 
 ### 🔭 Current Work  
 - Chronic Diseases analysis and stock-lab analytics.  
-- Working on CS projects: Database systems and front-end flight booking app.  
+ 
 
 ---
 
