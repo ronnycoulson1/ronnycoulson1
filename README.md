@@ -8,18 +8,21 @@
 ---
 
 ### 🔭 Current Work  
-- Chronic Diseases analysis and stock-lab analytics.  
+- Chronic Diseases analysis and stock-lab analytics.
+- Walmart High Sales Analys
  
 
 ---
 
 ### 👨‍💻 Skills  
-`C++` `Python` `JavaScript` `Next.js` `SQL` `Pandas` `NumPy`
+`C++` 
+`Python`
+`JavaScript` 
 
 ---
 
 ### 🔧 Tools & Technologies  
-- Data analysis, machine learning basics, and modern web backends.
+- Data analysis
 
 ---
 
@@ -28,8 +31,6 @@
 - **FullStack** — Full-stack web development projects.  
   ⤴️ [View Repo](https://github.com/ronnycoulson1/fullStack)
 
-- **Quant-Dev** — Basic stock analysis, from data cleaning to insights.  
-  ⤴️ [View Repo](https://github.com/ronnycoulson1/quant-dev)
 
 - **Data-Science** — Data analysis projects in different fields (e.g., health).  
   ⤴️ [View Repo](https://github.com/ronnycoulson1/data-science)
@@ -37,9 +38,6 @@
 ---
 
 
-
-### 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ronnycoulson)  
 
 
 ---
