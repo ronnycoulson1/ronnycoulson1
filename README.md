@@ -10,6 +10,7 @@
 ### 🔭 Current Work  
 - Chronic Diseases analysis and stock-lab analytics.
 - Walmart High Sales Analys
+- emergency calls analysis + data visualizaion
  
 
 ---
