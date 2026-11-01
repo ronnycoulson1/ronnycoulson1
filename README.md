@@ -4,7 +4,7 @@
 
 🚀 I'm building software projects  
 📫 Reach me: rcoulson@kent.edu  
-🌐 https://ronnycoulson.dev/
+🌐 website: https://ronnycoulson.dev/
 
 ---
 ### 🔭 Current Work  
