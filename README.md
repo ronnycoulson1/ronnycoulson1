@@ -3,7 +3,7 @@
 **Computer Science**  
 
 🚀 I Building Software Projets   
-📫 Reach me: **rcoulson@kent.edu**
+📫 Reach me: rcoulson@kent.edu
 🌐 https://ronnycoulson.dev/
 
 ---
