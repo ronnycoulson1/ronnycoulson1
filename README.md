@@ -1,16 +1,16 @@
 ## Hi there, I'm Ronny 👋  
 
-**Computer Science & Math-Finance Student**  
+**Computer Science**  
 
-🚀 Building projects in web dev, C++, trading anlysis, and data science.  
+🚀 I Building Software Projets   
 📫 Reach me: **rcoulson@kent.edu**
 
 ---
 
 ### 🔭 Current Work  
-- Chronic Diseases analysis and stock-lab analytics.
-- Walmart High Sales Analys
-- emergency calls analysis + data visualizaion
+- Green House Monitoring system - Kent State University Green House  
+- Tutoring Evaluation - Kent State Tutoring department
+
  
 
 ---
@@ -19,29 +19,14 @@
 `C++` 
 `Python`
 `JavaScript` 
-
----
-
-### 🔧 Tools & Technologies  
-- Data analysis
-
----
-
-### 📂 Featured Projects  
-
-- **FullStack** — Full-stack web development projects.  
-  ⤴️ [View Repo](https://github.com/ronnycoulson1/fullStack)
-
-
-- **Data-Science** — Data analysis projects in different fields (e.g., health).  
-  ⤴️ [View Repo](https://github.com/ronnycoulson1/data-science)
-
----
-
-
+`C#`
+`MongoDB`
+`SQL`
+`PostgreSql`
 
 
 ---
+
 
 *Thanks for visiting — feel free to reach out or check out my projects!* 👋
 
