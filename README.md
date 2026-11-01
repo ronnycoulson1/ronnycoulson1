@@ -1,13 +1,12 @@
-## Hi there, I'm Ronny 👋  
+## Hi there, I'm Ronny 👋
 
-**Computer Science**  
+**Computer Science**
 
-🚀 I Building Software Projets   
-📫 Reach me: rcoulson@kent.edu
+🚀 I'm building software projects  
+📫 Reach me: rcoulson@kent.edu  
 🌐 https://ronnycoulson.dev/
 
 ---
-
 ### 🔭 Current Work  
 - Green House Monitoring system - Kent State University Green House  
 - Tutoring Evaluation - Kent State Tutoring department
